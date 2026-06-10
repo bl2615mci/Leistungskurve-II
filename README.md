@@ -23,4 +23,4 @@ Das Programm erstellt:
 - einen Plot der Power-Curve,
 - sowie einen Screenshot `screenshot.png` für die Dokumentation in diesem Repository.
 
-- [Power Curve ansehen](screenshot.png)
+![Screenshot](screenshot.png)
